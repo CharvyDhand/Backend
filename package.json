@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic backend",
+  "homepage": "https://github.com/CharvyDhand/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/CharvyDhand/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharvyDhand/Backend.git"
+  },
+  "license": "ISC",
+  "author": "charvy dhand",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1"
+  }
+}
